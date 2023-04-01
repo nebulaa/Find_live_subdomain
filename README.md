@@ -1,4 +1,4 @@
-# Find_live_subdomains
+# Find subdomains
 
 Sub-domain enumeration tool for web application reconnaissance and bug bounty
 
